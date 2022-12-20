@@ -1,1 +1,10 @@
 GET http://localhost:4000/todos
+
+###
+
+POST http://localhost:4000/todo/new
+Content-Type: application/json
+
+{
+    "text": "Practice DSA"
+}
