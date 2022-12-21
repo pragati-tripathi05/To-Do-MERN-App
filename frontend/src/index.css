@@ -30,10 +30,10 @@ h1{
 }
 
 h4{
-  font-size: 18px;
+  font-size: 25px;
   color: var(--light-alt);
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight: 600;
   margin-bottom: 16px;
 }
 
