@@ -94,9 +94,11 @@ function App() {
             X
           </div>
           <div className="content">
-            <h3>Add Task</h3>
+            <h3>Add New Task</h3>
             <input
               type="text"
+              maxLength="20"
+              placeholder="Max 20 charcters"
               className="add-todo-input"
               onChange={(e) => setNewTodo(e.target.value)}
               value={newTodo}
