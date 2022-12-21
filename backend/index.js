@@ -7,7 +7,7 @@ const Todo = require("./models/Todo");
 
 const app = express();
 
-const PORT = process.env.PORT || 4500;
+const PORT = process.env.PORT || 4000;
 
 app.use(express.json());
 app.use(cors());
@@ -34,7 +34,7 @@ app.delete("/todo/delete/:id", async (req, res) => {
 });
 
 // TOGGLE complete & pending
-app.put("/todo/complete/:id", async (req, res) => {
+app.get("/todo/complete/:id", async (req, res) => {
   const todo = await Todo.findById(req.params.id);
   todo.complete = !todo.complete;
   todo.save();

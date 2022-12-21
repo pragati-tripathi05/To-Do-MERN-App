@@ -6,11 +6,11 @@ POST http://localhost:4000/todo/new
 Content-Type: application/json
 
 {
-    "text": "Complete assignments"
+    "text": "hvasjbgjkxkjshkjxljljodjoljlkhnkn,n,hjkhkjhjkhbjhjgggugtiurrttrdfhjbkj"
 }
 
 ###
 DELETE http://localhost:4000/todo/delete/63a1a0acdca1ff4689fa6c6b
 
 ###
-PUT http://localhost:4000/todo/complete/63a1a160dca1ff4689fa6c6e
+GET http://localhost:4000/todo/complete/63a19f65424abd4f91c8df91
