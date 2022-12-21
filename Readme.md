@@ -18,22 +18,26 @@
 ## Glimpses
 
 `All Tasks`
-![All_Tasks]
+
+![All_Tasks](https://github.com/pragati-tripathi05/To-Do-MERN-App/blob/master/frontend/public/1.png)
 
 <br/>
 
 `Add New Tasks`
-![Add_New_Tasks]
-![Add_New_Tasks]
-![Add_New_Tasks]
+
+![Add_New_Tasks](https://github.com/pragati-tripathi05/To-Do-MERN-App/blob/master/frontend/public/2.png)
+![Add_New_Tasks](https://github.com/pragati-tripathi05/To-Do-MERN-App/blob/master/frontend/public/3.png)
+![Add_New_Tasks](https://github.com/pragati-tripathi05/To-Do-MERN-App/blob/master/frontend/public/4.png)
 
 <br/>
 
 `Toggle to Completed Tasks`
-![Toggle_Status]
+
+![Toggle_Status](https://github.com/pragati-tripathi05/To-Do-MERN-App/blob/master/frontend/public/5.png)
 
 <br/>
 
 `Delete a Task`
-![Delete_Task]
-![Delete_Task]
+
+![Delete_Task](https://github.com/pragati-tripathi05/To-Do-MERN-App/blob/master/frontend/public/6.png)
+![Delete_Task](https://github.com/pragati-tripathi05/To-Do-MERN-App/blob/master/frontend/public/7.png)
