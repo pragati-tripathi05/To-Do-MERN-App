@@ -1,6 +1,6 @@
 # **Todo (MERN) App**
 
-## **https://todo-mern-app.vercel.app/**
+## **https://todo-mern-seven.vercel.app/**
 
 ### Backend : https://todo-mern-iiqm.onrender.com
 
